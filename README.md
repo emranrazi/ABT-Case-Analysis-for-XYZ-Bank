@@ -1,62 +1,36 @@
-# ABT-Case-Analysis-for-XYZ-Bank
-# Individual Descriptive Report - Customer Churn Prediction in Banking
+# ABT Case Analysis
 
-## Assignment Overview
+This repository contains the individual descriptive report for the ABT Case Analysis project, submitted as an assignment.
 
-### Deadline
-- Individual Descriptive Report due date: October 29, 11:59 PM.
+## Overview
 
-### Requirements
-- The report must not exceed 2000 words (excluding title page and reference page).
-- Use APA style throughout the document.
-- Ensure Turnitin score is less than 10%.
-- Include proof of AIgarism for each page separately.
-- Follow the assignment guidelines and structure outlined in the assignment description.
+This project is structured into two parts:
 
-## Research Topic and Summary
+### Part 1: Conceptual Understanding and Model Proposal
 
-### Research Topic
-- Overview of the provided video and its relevance to the assignment.
+- **Context Setting:** Analyst role in an imaginary bank, focusing on customer churn prediction.
+- **Model Proposal:** Suggestions for predictive models suited to banking processes.
+- **Data & Capacity Requirements:** Discussion on necessary data and bank's capacity for data handling.
+- **Raw Data Sources:** Enumeration of potential raw data sources contributing to an Analytic Base Table (ABT).
+- **Feature Engineering:** Creation of feature lists based on domain concepts and subconcepts, along with explanation.
+- **Developing ABT:** Suggestion of the ABT structure from proposed features, identifying variables and targets.
+- **Explanation and Documentation:** Explanation in a research paper style with figures and tables for clarity.
 
-### Assignment Summary
-- Brief description of the assignment's two parts and their objectives.
+### Part 2: Practical Analysis
 
-## Part 1: Conceptual Understanding and Model Proposal
+- **Using Available Data:** Leveraging available data for practical analysis, serving as the ABT.
+- **Data Analysis:** Comprehensive tables and visual plots for continuous and categorical features.
+- **Handling Missing Values and Outliers:** Strategies for managing missing values and outliers.
+- **Interpretation of Analysis:** Insights from the analysis and their relevance to customer churn.
+- **Clarity and Concision:** Key insights summarized concisely, maintaining coherence.
 
-### Context Setting
-- Explanation of the analyst's role in an imaginary bank focusing on customer churn prediction.
+## Project Structure
 
-### Model Proposal
-- Suggestions for suitable models specifically tailored for banking and customer churn prediction.
+- The project consists of a theoretical and a practical part.
+- It emphasizes clear, concise explanations while presenting valuable insights.
+- The focus is on testing both technical skills and analytical thinking.
 
-### Data & Capacity Requirements
-- Discussion on necessary data types and the bank's capacity for data handling and analytics.
+## Post-Assignment Steps
 
-### Raw Data Sources
-- Enumeration of potential raw data sources in a typical bank that contribute to an Analytic Base Table (ABT).
-
-### Feature Engineering
-- Creation of an ideal feature list based on domain concepts and subconcepts with explanations on raw and derived features.
-
-### Developing ABT
-- Suggested structure of the ABT including descriptive variables and target features with relevance explanations.
-
-### Explanation and Documentation
-- Presentation of the process with clarity using figures and tables within the word limit.
-
-## Part 2: Practical Analysis
-
-### Using Available Data
-- Introduction to the provided data for practical analysis.
-
-### Data Analysis
-- Comprehensive tables and visual plots for continuous and categorical features derived from the provided ABT.
-
-### Handling Missing Values and Outliers
-- Identification of issues and discussion on strategies for managing missing values and outliers.
-
-### Interpretation of Analysis
-- Explanation of insights gained from the analysis linked back to the context of customer churn.
-
-### Clarity and Concision
-- Emphasis on concise yet comprehensive insights and critical analysis.
+- For any unclear aspects of the assignment, reach out via teams.
+- Reference external material as per academic guidelines to ensure integrity.
